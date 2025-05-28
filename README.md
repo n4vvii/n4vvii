@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=dev-mzk&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=n4vvii&style=flat-square&color=blue" alt=""/>
 
 - ✋ I'm @n4vvii — a passionate learner who enjoys programming in my free time.  
 - 📗 I'm new to web development and currently interested in iOS and web app development.  
